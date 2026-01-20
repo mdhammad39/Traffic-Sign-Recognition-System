@@ -41,7 +41,7 @@ Traffic sign recognition is a crucial feature in autonomous driving systems. Rec
 - Expanding to multilingual and international traffic sign datasets.
 
 ## 👨‍💻 Author
-**Sohaib**  
+**Hammad**  
 AI Student & Deep Learning Enthusiast  
 
 
